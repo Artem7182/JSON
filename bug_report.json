@@ -1,10 +1,11 @@
 { 
-"Summary": "Сместился фон кнопки [Login] на главной странице сайта GreenForest",
+"ID": "1",
+"Summary": "Фон кнопки [Login] сместился выше надписи Login ",
 "Environment": "браузер Google Chrome v не ниже 100., браузер Firefox v не ниже 100 "
-"Description": "Фон кнопки [Login] сместился",
+"Description": "Сместился фон кнопки [Login] на главной странице сайта GreenForest",
 "Severity": "Minor",
-"STR": "1. Открыть страницу сайта GreenForest,
-        2. Фон кнопки [Login] сместился вверх экрана",
+"STR":[ {"1": "Открыть страницу сайта GreenForest"},
+        {"2": "Фон кнопки [Login] сместился вверх экрана"} ],
 "Expexted result": "Название кнопки [Login] расположено на зеленом фоне",
 "Result": "Зеленый фон кнопки [Login] сместился вверх экрана см. вложение",
 "Attachments": "скриншот главной страницы сайта Greenforest.png"
